@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "sheriyans takada site",
+			"path": "."
+		},
+		{
+			"name": "sheriyans",
+			"path": "../../../../Downloads/sheriyans"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sheriyans takada site"
+	}
+}
